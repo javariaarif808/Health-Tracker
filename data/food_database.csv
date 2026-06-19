@@ -1,0 +1,139 @@
+food_name,category,calories_kcal,protein_g,carbs_g,fat_g,serving_size
+Chicken Breast (grilled),Protein,165,31.0,0.0,3.6,100g
+Chicken Thigh (grilled),Protein,209,26.0,0.0,11.0,100g
+Turkey Breast,Protein,135,30.0,0.0,1.0,100g
+Ground Beef (lean),Protein,215,26.0,0.0,12.0,100g
+Ground Turkey,Protein,170,22.0,0.0,9.0,100g
+Beef Sirloin Steak,Protein,207,26.0,0.0,11.0,100g
+Pork Tenderloin,Protein,143,26.0,0.0,3.5,100g
+Lamb Chop,Protein,258,25.0,0.0,17.0,100g
+Tuna (canned in water),Protein,116,26.0,0.0,1.0,100g
+Tuna (fresh),Protein,144,23.0,0.0,5.0,100g
+Salmon (Atlantic),Protein,208,20.0,0.0,13.0,100g
+Salmon (smoked),Protein,117,18.0,0.0,4.3,100g
+Tilapia,Protein,96,20.0,0.0,2.0,100g
+Cod,Protein,82,18.0,0.0,0.7,100g
+Shrimp,Protein,85,20.0,0.0,0.5,100g
+Sardines (canned),Protein,208,25.0,0.0,11.0,100g
+Whole Egg,Protein,155,13.0,1.1,11.0,1 large (50g)
+Egg White,Protein,52,11.0,0.7,0.2,100g
+Whole Milk,Dairy,61,3.2,4.8,3.3,100ml
+Skim Milk,Dairy,34,3.4,5.0,0.1,100ml
+Greek Yogurt (plain),Dairy,59,10.0,3.6,0.4,100g
+Regular Yogurt (plain),Dairy,61,3.5,4.7,3.3,100g
+Cottage Cheese (low-fat),Dairy,72,12.5,2.7,1.0,100g
+Cheddar Cheese,Dairy,402,25.0,1.3,33.0,100g
+Mozzarella Cheese,Dairy,280,28.0,2.2,17.0,100g
+Feta Cheese,Dairy,264,14.0,4.1,21.0,100g
+Parmesan Cheese,Dairy,431,38.0,4.1,29.0,100g
+Butter,Fats,717,0.9,0.1,81.0,100g
+Whey Protein Powder,Supplements,400,80.0,8.0,5.0,100g
+Casein Protein Powder,Supplements,370,75.0,5.0,4.0,100g
+Brown Rice (cooked),Grains,216,5.0,45.0,1.8,100g cooked
+White Rice (cooked),Grains,206,4.3,45.0,0.4,100g cooked
+Oatmeal (cooked),Grains,68,2.4,12.0,1.4,100g cooked
+Rolled Oats (dry),Grains,389,17.0,66.0,7.0,100g dry
+Quinoa (cooked),Grains,120,4.4,21.3,1.9,100g cooked
+Whole Wheat Bread,Grains,247,13.0,41.0,4.2,100g
+White Bread,Grains,265,9.0,49.0,3.2,100g
+Sourdough Bread,Grains,274,11.0,52.0,1.5,100g
+Pasta (cooked),Grains,158,5.8,31.0,0.9,100g cooked
+Whole Wheat Pasta (cooked),Grains,149,6.0,29.0,0.8,100g cooked
+Corn Tortilla,Grains,218,5.7,46.0,3.1,100g
+Flour Tortilla,Grains,312,8.3,52.0,7.8,100g
+Bagel (plain),Grains,270,11.0,53.0,1.6,1 medium
+Granola,Grains,471,10.0,64.0,20.0,100g
+Cornmeal,Grains,362,8.1,76.0,3.6,100g
+Sweet Potato (baked),Vegetables,86,1.6,20.0,0.1,100g
+White Potato (baked),Vegetables,93,2.5,21.0,0.1,100g
+Broccoli (raw),Vegetables,34,2.8,7.0,0.4,100g
+Spinach (raw),Vegetables,23,2.9,3.6,0.4,100g
+Kale (raw),Vegetables,49,4.3,9.0,0.9,100g
+Romaine Lettuce,Vegetables,17,1.2,3.3,0.3,100g
+Tomato,Vegetables,18,0.9,3.9,0.2,1 medium
+Cherry Tomatoes,Vegetables,18,0.9,3.9,0.2,100g
+Cucumber,Vegetables,16,0.7,3.6,0.1,100g
+Bell Pepper (red),Vegetables,31,1.0,6.0,0.3,100g
+Bell Pepper (green),Vegetables,20,0.9,4.6,0.2,100g
+Carrot,Vegetables,41,0.9,10.0,0.2,100g
+Celery,Vegetables,16,0.7,3.0,0.2,100g
+Onion,Vegetables,40,1.1,9.3,0.1,100g
+Garlic,Vegetables,149,6.4,33.0,0.5,100g
+Cauliflower,Vegetables,25,1.9,5.0,0.3,100g
+Zucchini,Vegetables,17,1.2,3.1,0.3,100g
+Asparagus,Vegetables,20,2.2,3.9,0.1,100g
+Green Beans,Vegetables,31,1.8,7.0,0.1,100g
+Peas (frozen),Vegetables,69,5.4,12.4,0.4,100g
+Corn (sweet),Vegetables,86,3.3,19.0,1.4,100g
+Mushrooms (button),Vegetables,22,3.1,3.3,0.3,100g
+Edamame,Vegetables,121,11.9,8.9,5.2,100g
+Brussels Sprouts,Vegetables,43,3.4,9.0,0.3,100g
+Eggplant,Vegetables,25,1.0,5.9,0.2,100g
+Banana,Fruit,89,1.1,23.0,0.3,1 medium (118g)
+Apple,Fruit,52,0.3,14.0,0.2,1 medium (182g)
+Orange,Fruit,47,0.9,12.0,0.1,1 medium (131g)
+Strawberries,Fruit,32,0.7,7.7,0.3,100g
+Blueberries,Fruit,57,0.7,14.0,0.3,100g
+Raspberries,Fruit,52,1.2,12.0,0.7,100g
+Mango,Fruit,60,0.8,15.0,0.4,100g
+Pineapple,Fruit,50,0.5,13.0,0.1,100g
+Grapes,Fruit,69,0.7,18.0,0.2,100g
+Watermelon,Fruit,30,0.6,7.6,0.2,100g
+Avocado,Fruit,160,2.0,9.0,15.0,100g
+Peach,Fruit,39,0.9,10.0,0.3,1 medium
+Pear,Fruit,57,0.4,15.0,0.1,1 medium
+Kiwi,Fruit,61,1.1,15.0,0.5,1 medium
+Cherries,Fruit,50,1.0,12.0,0.3,100g
+Lemon,Fruit,29,1.1,9.3,0.3,1 whole
+Almonds,Nuts & Seeds,579,21.0,22.0,50.0,100g
+Walnuts,Nuts & Seeds,654,15.0,14.0,65.0,100g
+Cashews,Nuts & Seeds,553,18.0,30.0,44.0,100g
+Peanuts,Nuts & Seeds,567,26.0,16.0,49.0,100g
+Peanut Butter,Nuts & Seeds,588,25.0,20.0,50.0,100g
+Almond Butter,Nuts & Seeds,614,21.0,18.0,56.0,100g
+Sunflower Seeds,Nuts & Seeds,584,21.0,20.0,51.0,100g
+Chia Seeds,Nuts & Seeds,486,17.0,42.0,31.0,100g
+Flaxseeds,Nuts & Seeds,534,18.0,29.0,42.0,100g
+Pumpkin Seeds,Nuts & Seeds,559,30.0,11.0,49.0,100g
+Sesame Seeds,Nuts & Seeds,573,18.0,23.0,50.0,100g
+Black Beans (cooked),Legumes,132,8.9,24.0,0.5,100g
+Chickpeas (cooked),Legumes,164,8.9,27.0,2.6,100g
+Lentils (cooked),Legumes,116,9.0,20.0,0.4,100g
+Kidney Beans (cooked),Legumes,127,8.7,23.0,0.5,100g
+Edamame (shelled),Legumes,122,11.9,9.9,5.2,100g
+Tofu (firm),Legumes,144,17.0,3.0,9.0,100g
+Tempeh,Legumes,193,19.0,9.4,11.0,100g
+Hummus,Legumes,166,7.9,14.0,9.6,100g
+Split Peas (cooked),Legumes,116,8.3,21.0,0.4,100g
+Olive Oil,Fats,884,0.0,0.0,100.0,100ml
+Coconut Oil,Fats,862,0.0,0.0,100.0,100ml
+Canola Oil,Fats,884,0.0,0.0,100.0,100ml
+Avocado Oil,Fats,884,0.0,0.0,100.0,100ml
+Cream Cheese,Fats,342,6.2,4.1,34.0,100g
+Sour Cream,Fats,193,2.9,4.6,19.0,100g
+Mayonnaise,Fats,680,1.0,0.6,75.0,100g
+Orange Juice,Beverages,45,0.7,10.4,0.2,100ml
+Apple Juice,Beverages,46,0.1,11.4,0.1,100ml
+Whole Milk Latte,Beverages,67,3.7,5.3,3.5,100ml
+Black Coffee,Beverages,2,0.3,0.0,0.0,240ml
+Green Tea,Beverages,1,0.0,0.0,0.0,240ml
+Protein Bar (avg),Snacks,390,30.0,40.0,10.0,1 bar (70g)
+Dark Chocolate (70%),Snacks,598,7.8,46.0,43.0,100g
+Rice Cakes (plain),Snacks,387,8.2,81.0,3.5,100g
+Crackers (whole grain),Snacks,431,10.0,71.0,13.0,100g
+Popcorn (air-popped),Snacks,387,13.0,78.0,4.5,100g
+Pretzels,Snacks,380,10.0,80.0,2.6,100g
+Tortilla Chips,Snacks,489,7.2,64.0,23.0,100g
+Granola Bar,Snacks,471,8.3,64.0,20.0,1 bar (47g)
+Mixed Nuts,Snacks,607,14.0,21.0,54.0,100g
+Beef Jerky,Snacks,410,33.0,11.0,26.0,100g
+Pizza (cheese),Fast Food,266,11.0,33.0,10.0,1 slice (107g)
+Cheeseburger,Fast Food,303,17.0,24.0,14.0,1 burger
+French Fries,Fast Food,312,3.4,41.0,15.0,medium serving
+Caesar Salad,Fast Food,190,7.0,9.0,15.0,100g
+Grilled Chicken Wrap,Fast Food,210,18.0,22.0,6.0,100g
+Sushi Roll (California),Fast Food,129,3.5,19.0,3.9,100g
+Pasta Marinara,Fast Food,155,5.2,29.0,2.3,100g
+Beef Burrito,Fast Food,217,10.0,24.0,9.0,100g
+Pad Thai,Fast Food,160,7.0,23.0,5.0,100g
+Fried Rice,Fast Food,163,3.6,28.0,4.7,100g
