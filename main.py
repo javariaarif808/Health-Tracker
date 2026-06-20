@@ -350,7 +350,7 @@ class HealthTrackApp(_BaseApp):
         super().show_auth()
 
     def _build_toolbar(self, profile: UserProfile):
-        bar = tk.Frame(self, bg=PANEL); bar.pack(side="bottom", fill="x")
+        bar = tk.Frame(self, bg=PANEL); bar.pack(side="top", fill="x")
         tk.Frame(bar, bg=BORDER, height=1).pack(fill="x")
         btn_row = _frame(bar, bg=PANEL); btn_row.pack(pady=6)
 
