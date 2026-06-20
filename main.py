@@ -338,11 +338,11 @@ class HealthTrackApp(_BaseApp):
         self.minsize(900, 750)
 
     def launch_dashboard(self, profile: UserProfile):
-        if self._toolbar_frame and self._toolbar_frame.winfo_exists():
-            self._toolbar_frame.destroy()
-        super().launch_dashboard(profile)
-        self._active_dashboard = self._current
-        self._toolbar_frame = self._build_toolbar(profile)
+     if self._toolbar_frame and self._toolbar_frame.winfo_exists():
+        self._toolbar_frame.destroy()
+     self._toolbar_frame = self._build_toolbar (profile)
+     super().launch_dashboard(profile)
+     self._active_dashboard = self._current
 
     def show_auth(self):
         if self._toolbar_frame and self._toolbar_frame.winfo_exists():
