@@ -335,6 +335,7 @@ class HealthTrackApp(_BaseApp):
         self._toolbar_frame = None
         super().__init__()
         self.title("HealthTrack Pro")
+        self.minsize(900, 750)
 
     def launch_dashboard(self, profile: UserProfile):
         if self._toolbar_frame and self._toolbar_frame.winfo_exists():
