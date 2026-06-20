@@ -502,7 +502,7 @@ class App(tk.Tk):
     def __init__(self):
         super().__init__()
         self.title("HealthTrack Pro")
-        self.geometry("1000x720"); self.minsize(860, 620)
+        self.geometry("1000x560"); self.minsize(860, 500)
         self.configure(bg=BG)
         db.initialize_database()
         self._current = None; self.show_auth()
